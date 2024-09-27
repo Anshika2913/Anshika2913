@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Anshika Patel</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshika2913" alt="anshika2913" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Web Development**
 
 - 📫 How to reach me **anshika.patel29004@gmail.com**
