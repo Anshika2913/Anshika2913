@@ -83,7 +83,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-patel&theme=dracula" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika2913&theme=dracula" height="160"/>
 </p>
 
 ---
